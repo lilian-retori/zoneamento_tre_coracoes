@@ -5,11 +5,4 @@ folium==0.14.0
 streamlit-folium==0.20.0
 rapidfuzz==3.4.0
 openpyxl==3.1.5
-=======
-streamlit==1.38.0
-pandas==2.2.2
-openpyxl==3.1.2
-fuzzywuzzy==0.18.0
-python-levenshtein==0.25.1
-unicodedata2
 
