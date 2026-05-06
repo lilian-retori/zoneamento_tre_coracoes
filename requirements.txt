@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit==1.36.0
 pandas==2.2.0
 geopandas==0.14.0
@@ -13,4 +12,4 @@ openpyxl==3.1.2
 fuzzywuzzy==0.18.0
 python-levenshtein==0.25.1
 unicodedata2
->>>>>>> 59f893aebade47b913b10fbba5885446fdccb5af
+
