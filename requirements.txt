@@ -1,6 +1,5 @@
 streamlit==1.36.0
 pandas==2.2.0
-geopandas==0.14.0
 folium==0.14.0
 streamlit-folium==0.20.0
 rapidfuzz==3.4.0
