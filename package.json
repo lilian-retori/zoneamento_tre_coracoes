@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/xlsx": "^0.0.35",
+    "framer-motion": "^12.38.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.7.0",
+    "react-leaflet": "^5.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
