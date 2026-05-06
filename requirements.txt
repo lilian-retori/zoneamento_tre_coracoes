@@ -4,4 +4,3 @@ folium==0.14.0
 streamlit-folium==0.20.0
 rapidfuzz==3.4.0
 openpyxl==3.1.5
-
